@@ -4,7 +4,7 @@ import java.util.*;
  * 
  * view pokemons option
  */
-public class Tester 
+public class PokemonTester 
 {
 	public  static void main(String[] args)
 	{
