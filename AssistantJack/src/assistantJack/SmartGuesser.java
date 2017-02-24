@@ -16,7 +16,7 @@ import java.util.Scanner;
  * 		one length 6, one length 10, and one length 6
  * populate each ArrayList respectively
  * For(int i = 0; i < 20; i++)
- * 		pick a random index in the array
+ * 		pick a r	andom index in the array
  * 		get the specific item at the index chosen (Do this for all three categories)
  * 		Create a Theory object with the specific chosen items 
  * 		Find the incorrect item (always guaranteed one wrong, unless the guess is = solution set.)

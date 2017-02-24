@@ -97,7 +97,7 @@ public class AssistantJack {
 	 *         multiple are incorrect it will randomly select one of the
 	 *         incorrect parts and return that.
 	 */
-	public int 	(int weapon, int location, int person) {
+	public int checkAnswer(int weapon, int location, int person) {
 		ArrayList<Integer> wrongItems = new ArrayList<Integer>();
 
 		this.timesAsked++;
