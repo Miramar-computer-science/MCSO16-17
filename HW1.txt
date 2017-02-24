@@ -1,0 +1,9 @@
+Extra questions about the RandomClue.java class:
+	The guesser will get the answer correctly within 20 trys, 20/360 of time (5.56% of the time)
+	Since 1,1,1 and 6,10,6 are in the domain of all a random answer choice, it does not matter
+	which of the options, 1,2, or 3, you choose. 
+	
+	This algorithm relies entirely on chance. There are 360 different combinations. This 
+	strategy does not take advantage of the fact that Assistant Jack tells you which item you
+	you guessed incorrectly. The only up side is that you can get the right answer 5 percent of 
+	the time. Not a very good strategy. 
